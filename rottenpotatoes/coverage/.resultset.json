@@ -1,0 +1,15 @@
+{
+  "Cucumber Features": {
+    "coverage": {
+      "/home/ubuntu/workspace/hw-bdd-tdd-cycle-1/rottenpotatoes/app/models/movie.rb": [
+        1,
+        1,
+        0,
+        0,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1461766930
+  }
+}
